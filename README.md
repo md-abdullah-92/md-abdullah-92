@@ -95,7 +95,7 @@ I am an enthusiastic and detail-oriented Computer Science & Engineering student 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/md-abdullah-92/md-abdullah-92/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
+  <img src="https://github.com/md-abdullah-92/md-abdullah-92/blob/main/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
 </p>
 
 ---
