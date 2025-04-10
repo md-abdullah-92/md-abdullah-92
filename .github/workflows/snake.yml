@@ -2,8 +2,11 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -19,11 +22,10 @@ jobs:
           outputs: |
             ./output/github-contribution-grid-snake.svg
 
-      # 👉 Replace your old "Commit and Push" step with this:
-      - name: Push changes with PAT
+      - name: Push changes
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add output/github-contribution-grid-snake.svg
           git commit -m "🐍 Update contribution snake" || echo "No changes to commit"
-          git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/md-abdullah-92/md-abdullah-92.git HEAD:main
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/md-abdullah-92/md-abdullah-92.git HEAD:main
