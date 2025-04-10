@@ -8,6 +8,7 @@
   <a href="mailto:abdullah92@student.sust.edu"><img src="https://img.shields.io/badge/Email-abdullah92@student.sust.edu-blue?style=flat-square&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/abdullah-al-mahadi-apurbo-88261b292"><img src="https://img.shields.io/badge/LinkedIn-Abdullah-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://github.com/md-abdullah-92"><img src="https://img.shields.io/github/followers/md-abdullah-92?style=flat-square&label=Follow&logo=github"></a>
+  <img src="https://komarev.com/ghpvc/?username=md-abdullah-92&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Count"/>
 </p>
 
 ---
@@ -16,9 +17,9 @@
 
 I am an enthusiastic and detail-oriented Computer Science & Engineering student at **Shahjalal University of Science & Technology (SUST)**. I am passionate about full-stack development, AI, and solving real-world problems through efficient software systems.
 
-- 💡 Exploring scalable and intelligent systems
-- 📚 Conducting research on **Emoji & Sticker Prediction for Bangla & Romanized Bangla**
-- 🚀 Actively building education and agriculture-focused digital platforms
+- 💡 Exploring scalable and intelligent systems  
+- 📚 Conducting research on **Emoji & Sticker Prediction for Bangla & Romanized Bangla**  
+- 🚀 Actively building education and agriculture-focused digital platforms  
 
 ---
 
@@ -57,10 +58,10 @@ I am an enthusiastic and detail-oriented Computer Science & Engineering student 
 
 ## 🚀 Featured Projects
 
-- 🔸 **EduVerse** – AI-powered e-learning platform with auto-grading & smart tutoring  
-- 🔸 **Agribazaar** – Digital agriculture marketplace for farmers, agents, and buyers  
-- 🔸 **bdapps Result App** – Student result viewing system with OTP-based institutional access  
-- 🔸 **Emoji & Sticker Prediction** – Thesis project on Bangla text input UX improvement
+- 🔸 [**EduVerse**](https://github.com/md-abdullah-92/eduverse) – AI-powered e-learning platform with auto-grading & smart tutoring  
+- 🔸 [**Agribazaar**](https://github.com/md-abdullah-92/agribazaar) – Digital agriculture marketplace for farmers, agents, and buyers  
+- 🔸 [**bdapps Result App**](https://github.com/md-abdullah-92/result-app) – Student result viewing system with OTP-based institutional access  
+- 🔸 [**Emoji & Sticker Prediction**](https://github.com/md-abdullah-92/emoji-sticker-prediction) – Thesis project on Bangla text input UX improvement  
 
 ---
 
@@ -68,7 +69,7 @@ I am an enthusiastic and detail-oriented Computer Science & Engineering student 
 
 - 🥇 President’s Scout Award (2017)  
 - 🧩 Solved 1500+ problems on Online Judges  
-- 📜 HSC & SSC: GPA 5.00/5.00
+- 📜 HSC & SSC: GPA 5.00/5.00  
 
 ---
 
@@ -77,6 +78,22 @@ I am an enthusiastic and detail-oriented Computer Science & Engineering student 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=md-abdullah-92&show_icons=true&theme=default" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-abdullah-92&layout=compact&theme=default" width="48%" />
+</p>
+
+---
+
+## 🧠 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote">
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/md-abdullah-92/md-abdullah-92/main/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
 </p>
 
 ---
@@ -90,17 +107,6 @@ I am an enthusiastic and detail-oriented Computer Science & Engineering student 
 
 ---
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/md-abdullah-92/md-abdullah-92/blob/main/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
-</p>
-
----
-
 <p align="center">
   🔍 _“Always learning. Always building. Always improving.”_
 </p>
-
