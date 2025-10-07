@@ -62,15 +62,18 @@
 
 ## 📋 Skills Breakdown
 
-- **Backend:** Spring Boot, Node.js, Express.js 
+- **Backend:** Spring Boot, Node.js, Express.js,Python
 - **Frontend:** React, Next.js, Tailwind CSS, Jetpack Compose
-- **Database:** MySQL, MongoDB, PostgreSQL, Redis
+- **Database:** MySQL, MongoDB, PostgreSQL
 - **AI & ML:** NLP, Deep Learning
 
 ---
 
 ## 🏆 Achievements
 
+- 🥈 **Runner-up – GreenCon Hackathon 2025** [(Ummah Connect)](https://github.com/minhaj47/crisis_communication_app_flutter)
+- 🥉 **3rd Place – bdapps Android App Contest (University Level, 2025)**
+- 🤖 **Final Round Participant – HackTheAI (Green University, powered by SmythOS)** [(EVENTURE)](https://github.com/minhaj47/Eventure-HackAI)
 - 🥇 **President's Scout Award 2017**
 - 🥈 **Solved 1500+ problems** on competitive programming platforms
 
@@ -79,15 +82,53 @@
 
 ## 🔥 Featured Projects
 
-### 🤖 AI & Automation
+### 🎓 [EduVerse](https://github.com/md-abdullah-92/eduverse)
+AI-powered e-learning platform with **smart tutoring** and **automated grading**.  
+- 💡 Features: Auto-assessment, interactive video lectures, real-time feedback  
+- 🧠 Tech Stack: React, Node.js, Python, TensorFlow, Firebase
 
-- **[Emoji & Sticker Prediction](https://github.com/md-abdullah-92/emoji-sticker-prediction)** – NLP research project for Bangla & Romanized Bangla text input 🧠
-- **[EduVerse](https://github.com/md-abdullah-92/eduverse)** – AI-powered e-learning platform with auto-grading & smart tutoring 📚
+---
+### 🕊️ [Ummah Connect](https://github.com/minhaj47/crisis_communication_app_flutter)
+Runner-up at **GreenCon Hackathon 2025**, Flutter app for **crisis communication** using mesh networking.  
+- 🌐 Features: Mesh networking, broadcast messaging, chat, location sharing, SOS alerts  
+- 🔐 Advantages: Encrypted, super power-saving, cross-platform  
+- 🛠️ Tech Stack: Flutter, Provider, SQLite, Bridgefy SDK, Bluetooth, WiFi Direct
 
-### 📱 Mobile & Web Development
+---
 
-- **[AgriBazaar](https://github.com/md-abdullah-92/agribazaar)** – Digital agriculture marketplace connecting farmers & buyers 🌾
-- **[bdapps Result App](https://github.com/md-abdullah-92/result-app)** – Student result viewing system with OTP-based authentication 📊
+### 🤖 [Eventure – HackTheAI](https://github.com/minhaj47/Eventure-HackAI)
+Finalist at **HackTheAI**, AI-driven event management platform leveraging **SmythOS**.  
+- 🚀 Features: AI emails, Google Sheets & Classroom integration, automated notifications, posters, forms, Google Meet  
+- ⚙️ Tech Stack: React, Node.js, Python, OpenAI API, SmythOS, Firebase
+
+---
+
+### 🌾 [AgriBazaar](https://github.com/md-abdullah-92/agribazaar)
+Digital agriculture marketplace connecting farmers and buyers.  
+- 💰 Features: Crop listings, bidding, logistics tracking, secure payments  
+- ⚙️ Tech Stack: Flutter, Firebase, Node.js, MongoDB
+
+---
+
+### 📊 [bdapps Result App](https://github.com/md-abdullah-92/result-app)
+Student result management app with **OTP-based authentication**.  
+- 🔐 Features: Secure login, instant results, dashboard  
+- 📱 Tech Stack: Android (Java), bdapps API, Firebase
+
+---
+
+### 🕊️ [Ummah Connect](https://github.com/minhaj47/crisis_communication_app_flutter)
+Runner-up at **GreenCon Hackathon 2025**, Flutter app for **crisis communication** using mesh networking.  
+- 🌐 Features: Mesh networking, broadcast messaging, chat, location sharing, SOS alerts  
+- 🔐 Advantages: Encrypted, super power-saving, cross-platform  
+- 🛠️ Tech Stack: Flutter, Provider, SQLite, Bridgefy SDK, Bluetooth, WiFi Direct
+
+---
+
+### 🤖 [Eventure – HackTheAI](https://github.com/minhaj47/Eventure-HackAI)
+Finalist at **HackTheAI**, AI-driven event management platform leveraging **SmythOS**.  
+- 🚀 Features: AI emails, Google Sheets & Classroom integration, automated notifications, posters, forms, Google Meet  
+- ⚙️ Tech Stack: React, Node.js, Python, OpenAI API, SmythOS, Firebase
 
 More projects on my [GitHub](https://github.com/md-abdullah-92) 🚀
 
