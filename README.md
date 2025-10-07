@@ -1,150 +1,113 @@
-# MD Abdullah Al Mahadi Apurbo
+# Hi there, I'm MD Abdullah Al Mahadi Apurbo! 👋
 
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-abdullah92%40student.sust.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah92@student.sust.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-al-mahadi-apurbo-88261b292)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-abdullah-92)
-
-![Profile Views](https://komarev.com/ghpvc/?username=md-abdullah-92&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-
-</div>
+🚀 **CSE Undergraduate | Full-Stack Developer | Problem Solver**
 
 ---
 
-## 👨‍💻 Professional Summary
+## 📊 GitHub Stats
 
-Computer Science & Engineering undergraduate at **Shahjalal University of Science & Technology (SUST)** with a strong foundation in full-stack development, artificial intelligence, and software engineering. Dedicated to creating innovative solutions that address real-world challenges through scalable and intelligent systems.
 
-### Current Focus Areas
-- 🔬 Research in Natural Language Processing for Bangla language applications
-- 🏗️ Development of scalable educational and agricultural technology platforms
-- 🤖 Exploration of AI-driven automation and intelligent systems
-- 📊 Building robust distributed architectures
+<table>
+  <tr>
+    <!-- Left Column: Top Languages -->
+    <td width="40%" align="center" valign="top">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-abdullah-92&layout=pie&theme=radical&hide_border=false&bg_color=0d1117&title_color=ff79c6&text_color=50fa7b&langs_count=6" 
+        alt="Most Used Languages" 
+        width="100%"
+      />
+    </td>
+    <td width="60%" align="center" valign="bottom">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=md-abdullah-92&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=ffffff&count_private=true" 
+        alt="GitHub Stats" 
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Bottom row: Streak Stats (Full Width) -->
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com?user=md-abdullah-92&theme=highcontrast&hide_border=false&background=0d1117&ring=ff6ec7&fire=ffb86c&currStreakLabel=50fa7b" 
+  alt="GitHub Streak" 
+  width="90%"
+/>
+
+
 
 ---
 
-## 🎓 Academic Background
 
-**Shahjalal University of Science & Technology (SUST)**  
-*Bachelor of Science in Computer Science & Engineering*
+## 🛠️ Technical Skills
 
-- **Current CGPA:** 3.67 / 4.00
-- **Research Focus:** NLP, Deep Learning, and Human-Computer Interaction for Bangla
-- **Core Interests:** Artificial Intelligence, Software Architecture, Distributed Systems
-
-### Previous Academic Excellence
-- Higher Secondary Certificate (HSC): GPA 5.00/5.00
-- Secondary School Certificate (SSC): GPA 5.00/5.00
-
----
-
-## 💻 Technical Expertise
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Express.js](https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flutter](https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Frameworks & Libraries
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### Databases & Infrastructure
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 🚀 Notable Projects
+## 📋 Skills Breakdown
 
-### [EduVerse](https://github.com/md-abdullah-92/eduverse)
-**AI-Powered E-Learning Platform**
-- Implemented intelligent auto-grading system and adaptive learning algorithms
-- Developed smart tutoring features with personalized content recommendations
-- Technologies: Next.js, Node.js, MongoDB, Python
-
-### [AgriBazaar](https://github.com/md-abdullah-92/agribazaar)
-**Digital Agriculture Marketplace**
-- Created comprehensive platform connecting farmers, agents, and buyers
-- Integrated real-time inventory management and pricing optimization
-- Technologies: Spring Boot, MySQL, React
-
-### [bdapps Result Application](https://github.com/md-abdullah-92/result-app)
-**Institutional Result Management System**
-- Developed secure OTP-based authentication for result access
-- Implemented scalable architecture for multi-institutional support
-- Technologies: Kotlin, Jetpack Compose, Firebase
-
-### [Emoji & Sticker Prediction System](https://github.com/md-abdullah-92/emoji-sticker-prediction)
-**NLP Research Project**
-- Conducted research on improving Bangla and Romanized Bangla text input UX
-- Applied deep learning models for context-aware emoji recommendations
-- Technologies: Python, TensorFlow, Natural Language Processing
+- **Backend:** Spring Boot, Node.js, Express.js 
+- **Frontend:** React, Next.js, Tailwind CSS, Jetpack Compose
+- **Database:** MySQL, MongoDB, PostgreSQL, Redis
+- **AI & ML:** NLP, Deep Learning
 
 ---
 
-## 🏆 Achievements & Recognition
+## 🏆 Achievements
 
-- 🥇 **President's Scout Award** (2017) - Highest recognition in Scouting
-- 💡 **1500+ Problems Solved** across competitive programming platforms
-- 📚 **Academic Excellence** - Consistent GPA 5.00/5.00 in SSC and HSC
-- 🔬 **Undergraduate Researcher** in NLP and Machine Learning
+- 🥇 **President's Scout Award 2017**
+- 🥈 **Solved 1500+ problems** on competitive programming platforms
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-abdullah-92&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-abdullah-92&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=md-abdullah-92&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
-## 🐍 Contribution Activity
+## 🔥 Featured Projects
 
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/md-abdullah-92/md-abdullah-92/main/output/github-contribution-grid-snake.svg)
+### 🤖 AI & Automation
 
-</div>
+- **[Emoji & Sticker Prediction](https://github.com/md-abdullah-92/emoji-sticker-prediction)** – NLP research project for Bangla & Romanized Bangla text input 🧠
+- **[EduVerse](https://github.com/md-abdullah-92/eduverse)** – AI-powered e-learning platform with auto-grading & smart tutoring 📚
 
----
+### 📱 Mobile & Web Development
 
-## 📬 Contact Information
+- **[AgriBazaar](https://github.com/md-abdullah-92/agribazaar)** – Digital agriculture marketplace connecting farmers & buyers 🌾
+- **[bdapps Result App](https://github.com/md-abdullah-92/result-app)** – Student result viewing system with OTP-based authentication 📊
 
-I am always open to discussing new projects, research opportunities, or potential collaborations. Feel free to reach out through any of the following channels:
-
-- 📧 **Email:** [abdullah92@student.sust.edu](mailto:abdullah92@student.sust.edu)
-- 💼 **LinkedIn:** [Abdullah Al Mahadi Apurbo](https://linkedin.com/in/abdullah-al-mahadi-apurbo-88261b292)
-- 📱 **Phone:** +880 1309 942695
-- 🌐 **GitHub:** [@md-abdullah-92](https://github.com/md-abdullah-92)
+More projects on my [GitHub](https://github.com/md-abdullah-92) 🚀
 
 ---
 
-<div align="center">
+## 🔗 Connect with Me
 
-### 💭 Philosophy
-
-*"Continuous learning, deliberate practice, and consistent improvement form the foundation of excellence."*
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-al-mahadi-apurbo-88261b292)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-abdullah-92)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah92@student.sust.edu)
+[![Phone](https://img.shields.io/badge/+880_1309_942695-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801309942695)
 
 ---
 
-**Thank you for visiting my profile!**
+💡 *"Passionate about system-level development, workflow automation, and solving complex challenges!"*
 
-</div>
+💻 *Always exploring new technologies & building innovative solutions!*
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=md-abdullah-92&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
