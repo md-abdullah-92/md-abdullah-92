@@ -136,7 +136,7 @@ More projects on my [GitHub](https://github.com/md-abdullah-92) 🚀
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-al-mahadi-apurbo-88261b292)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdabdullahalmahdi92)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-abdullah-92)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah92@student.sust.edu)
 [![Phone](https://img.shields.io/badge/+880_1309_942695-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801309942695)
