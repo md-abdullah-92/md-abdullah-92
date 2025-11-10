@@ -29,12 +29,6 @@
 
 <br/>
 
-<!-- Bottom row: Streak Stats (Full Width) -->
-<img 
-  src="https://streak-stats.demolab.com?user=md-abdullah-92&theme=highcontrast&hide_border=false&background=0d1117&ring=ff6ec7&fire=ffb86c&currStreakLabel=50fa7b" 
-  alt="GitHub Streak" 
-  width="90%"
-/>
 
 
 
