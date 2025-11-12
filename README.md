@@ -82,19 +82,7 @@ AI-powered e-learning platform with **smart tutoring** and **automated grading**
 - 💡 Features: Auto-assessment, interactive video lectures, real-time feedback  
 - 🧠 Tech Stack: React, Node.js, Python, TensorFlow, Firebase
 
----
-### 🕊️ [Ummah Connect](https://github.com/minhaj47/crisis_communication_app_flutter)
-Runner-up at **GreenCon Hackathon 2025**, Flutter app for **crisis communication** using mesh networking.  
-- 🌐 Features: Mesh networking, broadcast messaging, chat, location sharing, SOS alerts  
-- 🔐 Advantages: Encrypted, super power-saving, cross-platform  
-- 🛠️ Tech Stack: Flutter, Provider, SQLite, Bridgefy SDK, Bluetooth, WiFi Direct
 
----
-
-### 🤖 [Eventure – HackTheAI](https://github.com/minhaj47/Eventure-HackAI)
-Finalist at **HackTheAI**, AI-driven event management platform leveraging **SmythOS**.  
-- 🚀 Features: AI emails, Google Sheets & Classroom integration, automated notifications, posters, forms, Google Meet  
-- ⚙️ Tech Stack: React, Node.js, Python, OpenAI API, SmythOS, Firebase
 
 ---
 
