@@ -80,23 +80,23 @@
 ### 🎓 [EduVerse](https://github.com/md-abdullah-92/eduverse)
 AI-powered e-learning platform with **smart tutoring** and **automated grading**.  
 - 💡 Features: Auto-assessment, interactive video lectures, real-time feedback  
-- 🧠 Tech Stack: React, Node.js, Python, TensorFlow, Firebase
+- 🧠 Tech Stack: Next.js, Node.js, Python, Firebase
 
 
 
 ---
 
-### 🌾 [AgriBazaar](https://github.com/md-abdullah-92/agribazaar)
+### 🌾 [https://github.com/md-abdullah-92/sust_unknowns_agribazaar)
 Digital agriculture marketplace connecting farmers and buyers.  
 - 💰 Features: Crop listings, bidding, logistics tracking, secure payments  
-- ⚙️ Tech Stack: Flutter, Firebase, Node.js, MongoDB
+- ⚙️ Tech Stack: Next.js, Firebase, Node.js, MongoDB
 
 ---
 
-### 📊 [bdapps Result App](https://github.com/md-abdullah-92/result-app)
+### 📊 [bdapps Result App](https://github.com/md-abdullah-92/BDAPPS2020331092)
 Student result management app with **OTP-based authentication**.  
 - 🔐 Features: Secure login, instant results, dashboard  
-- 📱 Tech Stack: Android (Java), bdapps API, Firebase
+- 📱 Tech Stack: Android (Kotlin), bdapps API, Firebase
 
 ---
 
@@ -104,14 +104,14 @@ Student result management app with **OTP-based authentication**.
 Runner-up at **GreenCon Hackathon 2025**, Flutter app for **crisis communication** using mesh networking.  
 - 🌐 Features: Mesh networking, broadcast messaging, chat, location sharing, SOS alerts  
 - 🔐 Advantages: Encrypted, super power-saving, cross-platform  
-- 🛠️ Tech Stack: Flutter, Provider, SQLite, Bridgefy SDK, Bluetooth, WiFi Direct
+- 🛠️ Tech Stack: Flutter, Provider, SQLite, Bridgefy SDK, Bluetooth
 
 ---
 
 ### 🤖 [Eventure – HackTheAI](https://github.com/minhaj47/Eventure-HackAI)
-Finalist at **HackTheAI**, AI-driven event management platform leveraging **SmythOS**.  
+Finalist at **HackTheAI**, an AI-driven event management platform leveraging **SmythOS**.  
 - 🚀 Features: AI emails, Google Sheets & Classroom integration, automated notifications, posters, forms, Google Meet  
-- ⚙️ Tech Stack: React, Node.js, Python, OpenAI API, SmythOS, Firebase
+- ⚙️ Tech Stack: Next.js, Node.js, Python, OpenAI API, SmythOS, Firebase
 
 More projects on my [GitHub](https://github.com/md-abdullah-92) 🚀
 
