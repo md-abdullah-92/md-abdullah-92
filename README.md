@@ -86,7 +86,7 @@ AI-powered e-learning platform with **smart tutoring** and **automated grading**
 
 ---
 
-### 🌾 [https://github.com/md-abdullah-92/sust_unknowns_agribazaar)
+### 🌾 [Agribazaar](https://github.com/md-abdullah-92/sust_unknowns_agribazaar)
 Digital agriculture marketplace connecting farmers and buyers.  
 - 💰 Features: Crop listings, bidding, logistics tracking, secure payments  
 - ⚙️ Tech Stack: Next.js, Firebase, Node.js, MongoDB
