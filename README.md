@@ -2,32 +2,7 @@
 
 🚀 **CSE Undergraduate | Full-Stack Developer | Problem Solver**
 
----
 
-## 📊 GitHub Stats
-
-
-<table>
-  <tr>
-    <!-- Left Column: Top Languages -->
-    <td width="40%" align="center" valign="top">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-abdullah-92&layout=pie&theme=radical&hide_border=false&bg_color=0d1117&title_color=ff79c6&text_color=50fa7b&langs_count=6" 
-        alt="Most Used Languages" 
-        width="100%"
-      />
-    </td>
-    <td width="60%" align="center" valign="bottom">
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=md-abdullah-92&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=ffffff&count_private=true" 
-        alt="GitHub Stats" 
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
-
-<br/>
 
 
 
